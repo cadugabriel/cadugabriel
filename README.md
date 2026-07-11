@@ -21,10 +21,6 @@ Aqui estão alguns projetos que marcaram minha trajetória técnica:
 * **Reestruturação de Dados:** Consolidação de 500+ bancos de dados em ambiente híbrido, gerando economia significativa de custos anuais.
 * **Assessment Técnico:** Mais de 50 assessments de arquitetura e performance realizados entre 2019 e 2024.
 
-
-
-Automação com IA Aplicada à Engenharia (2024 - Atual): Essencial para se posicionar como um profissional moderno. Mostra que você usa IA não apenas para "brincar", mas para revisão de código e validação de pipelines na prática.
-
 ---
 
 ### 🛠 Habilidades Técnicas
